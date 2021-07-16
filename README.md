@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Diferentes usos de los Hooks
+
+Aqui pudimos hacer uso de los hoohs y probar diferentes ejercicios
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
